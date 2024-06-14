@@ -1,0 +1,1 @@
+# This is a practice project which involves turning a figma design to html.
